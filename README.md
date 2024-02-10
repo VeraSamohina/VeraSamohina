@@ -4,7 +4,7 @@
 # About me
 
 * Эффективно работаю в команде, легко обучаюсь и нахожу результативные подходы для решения сложных задач.
-* Готова подтвердить свои знания выполнением тестового задания и ответить на дополнительные вопросы - [Telegram](t.me/VeraSamohina)
+* Готова подтвердить свои знания выполнением тестового задания и ответить на дополнительные вопросы - [Telegram](https://telegram.me/VeraSamohina)
 
 # My skills
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,4 +22,4 @@
 # Contact with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samohinavera44@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/VeraSamohina)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/VeraSamohina)
